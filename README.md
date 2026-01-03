@@ -4,4 +4,4 @@ im good at python, html, php and css and learning typescript (hurts as hell)
 
 ## these are my github stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=stol3n-g80&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stol3n-g80&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stol3n-g80&layout=compact&theme=dark&langs_count=6)
