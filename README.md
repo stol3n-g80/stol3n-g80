@@ -3,5 +3,4 @@ im a dev and i say python is better than javascript, i dont know why, but its ju
 im good at python, html, php and css and learning typescript (hurts as hell)
 
 ## these are my github stats:
-![](https://nirzak-streak-stats.vercel.app/?user=stol3n-g80&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stol3n-g80&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stol3n-g80&langs_count=10&layout=compact&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
